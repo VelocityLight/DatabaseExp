@@ -1,0 +1,10 @@
+insert into project values('QM','P0','wsrwcuxvhjzbiig',1);
+insert into project values('FO','P1','fjxhcmuuebduiko',5);
+insert into project values('SQL Project','P2','kaxgrmsaujcnejh',5);
+insert into project values('XR','P3','eqsdjtpvsvqkghl',1);
+insert into project values('SN','P4','mkwksvwpclhkhos',4);
+insert into project values('GP','P5','mvcamathfdpiuye',5);
+insert into project values('PS','P6','dqbczrtldeoalbr',1);
+insert into project values('QH','P7','nfkcspvntbxolis',4);
+insert into project values('MT','P8','qmpzaggzpegapvt',1);
+insert into project values('YL','P9','ofvhghgrcrcaldk',4);

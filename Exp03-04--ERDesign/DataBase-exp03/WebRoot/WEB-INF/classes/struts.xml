@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<package name="default" extends="struts-default">
+       	<action name="Regist" class="RegistUser">
+       		<result name="Success">/login.jsp</result>
+       		<result name="Failed">/error.jsp</result>
+       	</action>
+       	<action name="AlterUser" class="AlterUser">
+       		<result name="Success">/Regist.jsp</result>
+       		<result name="Failed">/error.jsp</result>
+       	</action>
+       	<action name="DeleteUser" class="DeleteUser">
+       		<result name="Success">/Regist.jsp</result>
+       		<result name="Failed">/error.jsp</result>
+       	</action>
+       	<action name="login" class="LoginUser">
+       		<result name="Success">/inf.jsp</result>
+       		<result name="Failed">/login.jsp</result>
+       	</action>
+       	<action name="search" class="SearchFriend">
+       		<result name="Success">/friendinf.jsp</result>
+       		<result name="Failed">/error.jsp</result>
+       	</action>
+       	<action name="show" class="ShowList">
+       		<result name="Success">/list.jsp</result>
+       		<result name="Failed">/login.jsp</result>
+       	</action>
+    </package>
+</struts>

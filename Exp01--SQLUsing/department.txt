@@ -1,0 +1,8 @@
+insert into department values ( 'ResearchDepartment',1008,'64681644',1);
+insert into department values ( '运维部',1016,'77311906',2);
+insert into department values ( '人事部',1024,'40941559',3);
+insert into department values ( '企发部',1032,'42886732',4);
+insert into department values ( '研发部',1040,'88880921',5);
+insert into department values ( '工程部',1048,'00689652',6);
+insert into department values ( '外联部',1056,'51952069',7);
+);
