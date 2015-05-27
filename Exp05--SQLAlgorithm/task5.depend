@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1431507086 source:c:\users\pokerface\desktop\task5\createdata.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"extmem.h"
+	"constant.h"
+
+1431507215 c:\users\pokerface\desktop\task5\extmem.h
+
+1431507250 c:\users\pokerface\desktop\task5\constant.h
+
+1431507291 source:c:\users\pokerface\desktop\task5\extmem.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"extmem.h"
+
+1431509959 source:c:\users\pokerface\desktop\task5\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<vector>
+	<string.h>
+	<math.h>
+	"extmem.h"
+	"constant.h"
+
+1431507291 source:c:\users\light\desktop\task5\extmem.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"extmem.h"
+
+1431507215 c:\users\light\desktop\task5\extmem.h
+
+1432358647 source:c:\users\light\desktop\task5\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<vector>
+	<string.h>
+	<math.h>
+	"extmem.h"
+	"constant.h"
+
+1431507250 c:\users\light\desktop\task5\constant.h
+
+1431507291 source:c:\users\light\desktop\大三下课件\数据库系统\task5\extmem.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"extmem.h"
+
+1431507215 c:\users\light\desktop\大三下课件\数据库系统\task5\extmem.h
+
+1432358647 source:c:\users\light\desktop\大三下课件\数据库系统\task5\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<vector>
+	<string.h>
+	<math.h>
+	"extmem.h"
+	"constant.h"
+
+1431507250 c:\users\light\desktop\大三下课件\数据库系统\task5\constant.h
+
